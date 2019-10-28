@@ -70,5 +70,19 @@ Feel free to contribute any resources that might help to improve this list.
 * [Spam Nation: The Inside Story of Organized Cybercrime - from Global Epidemic to Your Front Door](https://www.amazon.com/Spam-Nation-Organized-Cybercrime_from-Epidemic/dp/1501210424)
 
 ## [↑](#table-of-contents) Campaign write-ups
+* [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](https://citizenlab.ca/2017/05/tainted-leaks-disinformation-phish/)
+* [Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society](https://citizenlab.ca/2017/02/nilephish-report/)
+* [Exposing One of China’s Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
+* [Grizzly Steppe - Russian Malicious Cyber Activity](https://www.us-cert.gov/sites/default/files//JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf)
+* [Gmail Phishing Campaign Racking Up Victims](https://www.pindrop.com/blog/gmail-phishing-campaign-racking-up-victims/)
+* [Spying on a Budget: Inside a Phishing Operation with Targets in the Tibetan Community](https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/)
+* [Reckless Redux: Senior Mexican Legislators and Politicians Targeted with NSO Spyware](https://citizenlab.ca/2017/06/more-mexican-nso-targets/)
+* [Reckless Exploit: Mexican Journalists, Lawyers, and a Child Targeted with NSO Spyware](https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/)
+* [Shifting Tactics: Tracking changes in years-long espionage campaign against Tibetans](https://citizenlab.ca/2016/03/shifting-tactics/)
+* [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.ca/2015/12/packrat-report/)
+* [How millions of DSL modems were hacked in Brazil, to pay for Rio prostitutes](https://citizenlab.ca/2012/10/how-millions-of-dsl-modems-were-hacked-in-brazil-to-pay-for-rio-prostitutes/)
+* [Cloned RFE/RL phishing website in Uzbekistan](https://citizenlab.ca/2012/02/11988/)
+* [Chinese hackers steal Gmail passwords: Google](http://m.digitaljournal.com/article/307490)
+* [The RSA Hack: How They Did It](https://bits.blogs.nytimes.com/2011/04/02/the-rsa-hack-how-they-did-it/)
 
 ## [↑](#table-of-contents) Phishing prevention and detection
