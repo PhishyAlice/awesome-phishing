@@ -21,6 +21,10 @@ Feel free to contribute any resources that might help to improve this list.
 
 * [Books and ebooks](#-books-and-ebooks)
 
+* [Campaign write-ups](#-campaign-write-ups)
+
+* [Phishing prevention and detection](#-phishing-prevention-and-detection)
+
 ## [↑](#table-of-contents) E-mail security
 
 ## [↑](#table-of-contents) OSINT for phishers
@@ -53,5 +57,6 @@ Feel free to contribute any resources that might help to improve this list.
 
 ## [↑](#table-of-contents) Books and ebooks
 
+## [↑](#table-of-contents) Campaign write-ups
 
-
+## [↑](#table-of-contents) Phishing prevention and detection
