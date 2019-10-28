@@ -30,6 +30,28 @@ Feel free to contribute any resources that might help to improve this list.
 ## [↑](#table-of-contents) Payloads and filter evasion
 
 ## [↑](#table-of-contents) Tools and frameworks
+* [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit/)
+* [The Browser Exploitation Framework](https://github.com/beefproject/beef)
+* [King Phisher](https://github.com/securestate/king-phisher)
+* [FiercePhish](https://github.com/Raikia/FiercePhish)
+* [ReelPhish](https://github.com/fireeye/ReelPhish/)
+* [Fishing Cat Server](https://github.com/fishing-cat/fishing-cat-server)
+* [GoPhish](https://github.com/gophish/gophish)
+* [LUCY](https://lucysecurity.com/)
+* [CredSniper](https://github.com/ustayready/CredSniper)
+* [PwnAuth](https://github.com/fireeye/PwnAuth)
+* [sptoolkit](https://github.com/chris-short/sptoolkit)
+* [SpearPhisher](https://github.com/kevthehermit/SpearPhisher)
+* [Wifiphisher](https://wifiphisher.org/)
+* [Ares](https://github.com/dutchcoders/ares)
+* [Phishing-frenzy](https://github.com/pentestgeek/phishing-frenzy)
+* [SPF](https://github.com/tatanus/SPF)
+* [Phishing pretexts](https://github.com/L4bF0x/PhishingPretexts)
+* [Mercure](https://github.com/atexio/mercure)
+* [Metasploit](https://github.com/rapid7/metasploit-framework)
+* [Cobalt strike](https://www.cobaltstrike.com/help-spear-phish)
 
 ## [↑](#table-of-contents) Books and ebooks
+
+
 
