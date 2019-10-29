@@ -32,14 +32,28 @@ Feel free to contribute any resources that might help to improve this list.
 ## [↑](#table-of-contents) E-mail security
 
 ## [↑](#table-of-contents) OSINT for phishers
+* [Kali tools list](https://tools.kali.org/tools-listing)
+* [OSINT framework](https://osintframework.com/)
 
 ## [↑](#table-of-contents) Phishing infrastructure
 
 ## [↑](#table-of-contents) Payloads and filter evasion
 
 ## [↑](#table-of-contents) Tools and frameworks
+### OSINT tools
+* [Whois](http://whois.domaintools.com/)
+* [HaveIBeenPwnd](https://haveibeenpwned.com/)
+* [Creepy](https://github.com/ilektrojohn/creepy)
+* [Maltego](https://www.paterva.com/buy/maltego-clients/maltego-ce.php)
+* [Shodan](https://www.shodan.io/)
+* [Censys](https://censys.io/)
+* [TheHarvester](https://github.com/laramies/theHarvester)
+* [Recon-ng](https://github.com/lanmaster53/recon-ng)
+* [TinEye](https://www.tineye.com/)
+* [SearX](https://searx.me/)
+
+### Phishing campaign tools
 * [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit/)
-* [The Browser Exploitation Framework](https://github.com/beefproject/beef)
 * [King Phisher](https://github.com/securestate/king-phisher)
 * [FiercePhish](https://github.com/Raikia/FiercePhish)
 * [ReelPhish](https://github.com/fireeye/ReelPhish/)
@@ -58,6 +72,14 @@ Feel free to contribute any resources that might help to improve this list.
 * [Mercure](https://github.com/atexio/mercure)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 * [Cobalt strike](https://www.cobaltstrike.com/help-spear-phish)
+
+### Payload tools
+* [The Browser Exploitation Framework](https://github.com/beefproject/beef)
+* [LuckyStrike](https://github.com/curi0usJack/luckystrike)
+* [Shellter](https://www.shellterproject.com/)
+* [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)
+* [The Backdoor Factory](https://github.com/secretsquirrel/the-backdoor-factory)
+* [Veil framework](https://github.com/Veil-Framework/Veil)
 
 ## [↑](#table-of-contents) Books and ebooks
 * [Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails](https://www.amazon.com/Phishing-Dark-Waters-Offensive-Defensive/dp/1118958470)
@@ -95,3 +117,6 @@ Feel free to contribute any resources that might help to improve this list.
 
 ## [↑](#table-of-contents) Miscellaneous
 * [PhishTank](https://PhishTank.com)
+* [PhishBank](https://phishbank.org/)
+* [KnowBe4 info site](https://www.knowbe4.com/phishing)
+* [VirusTotal](https://www.virustotal.com/gui/)
