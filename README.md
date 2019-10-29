@@ -36,6 +36,16 @@ Feel free to contribute any resources that might help to improve this list.
 * [OSINT framework](https://osintframework.com/)
 
 ## [↑](#table-of-contents) Phishing infrastructure
+* [Going phishing with terraform](https://bestestredteam.com/2019/03/22/going-phishing-with-terraform/)
+* [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/2017/12/14/building-resilient-phishing-campaigns/)
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+* [Complete guide creating and hosting phishing page for beginners](https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phishing-page-for-beginners-0187744/)
+* [Automating gophish releases](https://jordan-wright.com/blog/post/2018-02-04-automating-gophish-releases/)
+* [Mail Server Setup](https://blog.inspired-sec.com/archive/2017/02/14/Mail-Server-Setup.html)
+* [Safe red team infrastructure](https://medium.com/@malcomvetter/safe-red-team-infrastructure-c5d6a0f13fac)
+* [Automated red team infrastructure deployment with terraform - part 1](https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
+* [Automated red team infrastructure deployment with terraform - part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
+* [Infrastructure for ongoing red team operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
 
 ## [↑](#table-of-contents) Payloads and filter evasion
 * [Luckystrike a database backed evil macro generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
