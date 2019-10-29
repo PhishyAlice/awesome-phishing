@@ -114,6 +114,16 @@ Feel free to contribute any resources that might help to improve this list.
 ## [↑](#table-of-contents) Phishing prevention and detection
 
 ## [↑](#table-of-contents) Phishing-related scientific research
+* [Why Phishing Works](https://cloudfront.escholarship.org/dist/prd/content/qt9dd9v9vd/qt9dd9v9vd.pdf)
+* [PhishEye: Live monitoring of sandboxed phishing kits](http://193.55.114.4/docs/ccs16_phisheye.pdf)
+* [Phishnet: predictive blacklisting to detect phishing attacks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.168.4540&rep=rep1&type=pdf)
+* [The current state of phishing attacks](https://kilthub.cmu.edu/articles/The_Current_State_of_Phishing_Attacks/6470498/files/11899055.pdf)
+* [Understanding User Behaviors When Phishing Attacks Occur](https://ieeexplore.ieee.org/abstract/document/8823468)
+* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://www.co.tt/files/defcon24/Speaker%20Materials/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
+* [Do security toolbars actually prevent phishing attacks?](http://cs.union.edu/~fernandc/srs200/readings/SecurityToolbars.pdf)
+* [Large-scale automatic classification of phishing pages](https://ai.google/research/pubs/pub35580.pdf)
+* [Social phishing](http://www.markus-jakobsson.com/papers/jakobsson-commacm07.pdf)
+* [Phishing for phishing awareness](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.632650)
 
 ## [↑](#table-of-contents) Miscellaneous
 * [PhishTank](https://PhishTank.com)
