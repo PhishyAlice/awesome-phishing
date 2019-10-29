@@ -38,6 +38,16 @@ Feel free to contribute any resources that might help to improve this list.
 ## [↑](#table-of-contents) Phishing infrastructure
 
 ## [↑](#table-of-contents) Payloads and filter evasion
+* [Luckystrike a database backed evil macro generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
+* [Powershell empire stagers 1 phishing with an office macro and evading avs](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs)
+* [Executing metasploit empire payloads from ms office documemt properties part 1 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2)
+* [Executing metasploit empire payloads from ms office documemt properties part 2 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2)
+* [Excel macros with powershell](https://4sysops.com/archives/excel-macros-with-powershell/)
+* [Powerpoint and custom actions](https://phishme.com/powerpoint-and-custom-actions/)
+* [Macroless malware that avoids detection with yara rule)](https://furoner.wordpress.com/2017/10/17/macroless-malware-that-avoids-detection-with-yara-rule/amp/)
+* [Hacking into whatsapp series part 2 phishing](https://null-byte.wonderhowto.com/forum/hacking-into-whatsapp-series-part-2-phishing-0179508/)
+* [Macro-less code exec in msword](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
+* [Multi-platform macro phishing payload](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
 
 ## [↑](#table-of-contents) Tools and frameworks
 ### OSINT tools
