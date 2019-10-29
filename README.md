@@ -25,6 +25,10 @@ Feel free to contribute any resources that might help to improve this list.
 
 * [Phishing prevention and detection](#-phishing-prevention-and-detection)
 
+* [Phishing-related scientific research](#-phishing-related-scientific-research)
+
+* [Miscellaneous](#-miscellaneous)
+
 ## [↑](#table-of-contents) E-mail security
 
 ## [↑](#table-of-contents) OSINT for phishers
@@ -86,3 +90,7 @@ Feel free to contribute any resources that might help to improve this list.
 * [The RSA Hack: How They Did It](https://bits.blogs.nytimes.com/2011/04/02/the-rsa-hack-how-they-did-it/)
 
 ## [↑](#table-of-contents) Phishing prevention and detection
+
+## [↑](#table-of-contents) Phishing-related scientific research
+
+## [↑](#table-of-contents) Miscellaneous
