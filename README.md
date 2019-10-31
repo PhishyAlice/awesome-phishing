@@ -9,7 +9,7 @@ Feel free to contribute any resources that might help to improve this list.
 
 ## Table of contents
 
-* [E-mail security](#-e-mail-security)
+* [Email security](#-email-security)
 
 * [OSINT for phishers](#-osint-for-phishers)
 
@@ -29,7 +29,35 @@ Feel free to contribute any resources that might help to improve this list.
 
 * [Miscellaneous](#-miscellaneous)
 
-## [↑](#table-of-contents) E-mail security
+## [↑](#table-of-contents) Email security
+### Encryption standards
+* [SSL vs TLS vs STARTTLS](https://www.limilabs.com/blog/ssl-vs-tls-vs-starttls-stls)
+* [Two-Factor Authentication for Beginners](https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7)
+* [How to encrypt email (Gmail, Outlook iOS, OSX, Android, Webmail)](https://www.comparitech.com/blog/vpn-privacy/how-to-encrypt-email)
+
+### Email authentication
+* [Part 3: How to Set up SPF and DKIM with Postfix on Ubuntu Server](https://www.linuxbabe.com/mail-server/setting-up-dkim-and-spf)
+* [How to Set Up DKIM in 3 Simple Steps](https://www.mailjet.com/blog/news/setting-up-dkim-step-by-step-a7d0a0ec-c4aa-4b5b-aeb5-a06361aa2e51/)
+* [What is SPF & DKIM? 
+And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-email/spf-dkim/)
+* [Authenticated Received Chain Overview](https://dmarc.org/presentations/ARC-Overview-2016Q3-v01.pdf)
+* [The "iprev" Authentication Method](https://tools.ietf.org/html/rfc5451#section-3)
+* [How To Set Up Your Author Domain Signing Practices (HISTORIC)](https://www.unlocktheinbox.com/resources/adsp/)
+
+### Filtering techniques
+
+* [Spamtrap 101: What they Are, Why You Hit Them, & What to Do About It](https://www.freshaddress.com/blog/spamtrap-101/)
+* [Classify emails into ham and spam using Naive Bayes Classifier](https://medium.com/swlh/classify-emails-into-ham-and-spam-using-naive-bayes-classifier-ffddd7faa1ef)
+* [Filtering Spam Using Naive Bayes](https://towardsdatascience.com/spam-filtering-using-naive-bayes-98a341224038)
+* [Using SpamAssassin](https://sourcedaddy.com/networking/using-spamassassin.html)
+* [Sieve Tutorial](https://p5r.uk/blog/2011/sieve-tutorial.html)
+* [The CRM114 & Mailfilter HOWTO](http://crm114.sourceforge.net/docs/CRM114_Mailfilter_HOWTO.txt)
+* [fdm/MANUAL](https://github.com/nicm/fdm/blob/master/MANUAL)
+* [Nolisting: Poor Man's Greylisting](http://nolisting.org/)
+* [Setting up an email honeypot spamtrap, malware, malspam trap.](https://myonlinesecurity.co.uk/setting-up-an-email-honeypot-spamtrap-malware-malspam-trap/)
+* [How to Add Antivirus and Spam Protection to Postfix Mail Server with ClamAV and SpamAssassin – Part 3](https://www.tecmint.com/integrate-clamav-and-spamassassin-to-protect-postfix-mails-from-viruses/)
+* [Email Greylisting. How does greylisting work?](https://www.interserver.net/tips/kb/email-greylisting-greylisting-work/)
+* [DNSBL (DNS Black List)](http://www.zytrax.com/books/dns/ch9/dnsbl.html)
 
 ## [↑](#table-of-contents) OSINT for phishers
 * [Kali tools list](https://tools.kali.org/tools-listing)
