@@ -86,6 +86,12 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Powershell empire stagers 1 phishing with an office macro and evading avs](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs)
 * [Executing metasploit empire payloads from ms office documemt properties part 1 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2)
 * [Executing metasploit empire payloads from ms office documemt properties part 2 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2)
+* [Phishing against protected view]( https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
+* [Phishing with powerpoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
+* [Phishing with empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
+* [Abusing microsoft word features phishing subdoc](https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
+* [Phishing against protected view](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
+* [csv injection](http://georgemauer.net/2017/10/07/csv-injection.html)
 * [Excel macros with powershell](https://4sysops.com/archives/excel-macros-with-powershell/)
 * [Powerpoint and custom actions](https://phishme.com/powerpoint-and-custom-actions/)
 * [Macroless malware that avoids detection with yara rule)](https://furoner.wordpress.com/2017/10/17/macroless-malware-that-avoids-detection-with-yara-rule/amp/)
@@ -159,6 +165,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society](https://citizenlab.ca/2017/02/nilephish-report/)
 * [Exposing One of China’s Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
 * [Grizzly Steppe - Russian Malicious Cyber Activity](https://www.us-cert.gov/sites/default/files//JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf)
+* [Analysing a massive Office 365 phishing campaign](https://bartblaze.blogspot.com/2019/03/analysing-massive-office-365-phishing.html?m=1)
 * [Gmail Phishing Campaign Racking Up Victims](https://www.pindrop.com/blog/gmail-phishing-campaign-racking-up-victims/)
 * [Spying on a Budget: Inside a Phishing Operation with Targets in the Tibetan Community](https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/)
 * [Reckless Redux: Senior Mexican Legislators and Politicians Targeted with NSO Spyware](https://citizenlab.ca/2017/06/more-mexican-nso-targets/)
@@ -171,6 +178,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [The RSA Hack: How They Did It](https://bits.blogs.nytimes.com/2011/04/02/the-rsa-hack-how-they-did-it/)
 
 ## [↑](#table-of-contents) Phishing prevention and detection
+* [Email Phishing Protection Guide – Blog 19: Email Phishing Protection Security Checklist](https://blogs.technet.microsoft.com/cloudready/2018/11/21/blog-19-email-phishing-protection-security-checklist/)
 * [Backtrack phishing email using Open-source intelligence gathering](https://www.peerlyst.com/posts/backtrack-phishing-email-using-open-source-intelligence-gathering-shaquib-izhar)
 * [Phishing - Advanced URL Analysis - Obfuscation, Clickjacking and OSINT Gathering](https://mlhale.github.io/nebraska-gencyber-modules/phishing/url-analysis-advanced/)
 * [Blunting the phishers spear: A risk-based approach](https://m.youtube.com/watch?v=5j6iSDBmCP4)
@@ -179,11 +187,18 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 
 
 ## [↑](#table-of-contents) Phishing-related scientific research
+* [Every ROSE has its thorn 
+The dark art of Remote Online Social Engineering](http://i.blackhat.com/us-18/Wed-August-8/us-18-Wixey-Every-ROSE-Has-Its-Thorn-The-Dark-Art-Of-Remote-Online-Social-Engineering.pdf)
+* [Ichthyology-phishing-as-a-science](https://www.blackhat.com/us-17/briefings.html#ichthyology-phishing-as-a-science)
 * [DeepPhish: Simulating Malicious AI](https://m.youtube.com/watch?v=fGtPmiNebDE)
 * [Why Phishing Works](https://cloudfront.escholarship.org/dist/prd/content/qt9dd9v9vd/qt9dd9v9vd.pdf)
 * [PhishEye: Live monitoring of sandboxed phishing kits](http://193.55.114.4/docs/ccs16_phisheye.pdf)
 * [Phishnet: predictive blacklisting to detect phishing attacks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.168.4540&rep=rep1&type=pdf)
 * [The current state of phishing attacks](https://kilthub.cmu.edu/articles/The_Current_State_of_Phishing_Attacks/6470498/files/11899055.pdf)
+* [Resurgence of Phishing-as-a-Service (PhaaS) platforms]( https://www.netskope.com/blog/resurgence-of-phishing-as-a-service-phaas-platforms)
+* [Phishing in the public cloud: You’ve been served](https://www.netskope.com/blog/phishing-in-the-public-cloud)
+* [Decoys, Phishing, and the Cloud: The Latest Fan-out Effect](https://www.netskope.com/blog/decoys-phishing-cloud-latest-fan-effect)
+* [Targeted Attacks Abusing Google Cloud Platform Open Redirection](https://www.netskope.com/blog/targeted-attacks-abusing-google-cloud-platform-open-redirection)
 * [Understanding User Behaviors When Phishing Attacks Occur](https://ieeexplore.ieee.org/abstract/document/8823468)
 * [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://www.co.tt/files/defcon24/Speaker%20Materials/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
 * [Do security toolbars actually prevent phishing attacks?](http://cs.union.edu/~fernandc/srs200/readings/SecurityToolbars.pdf)
@@ -192,6 +207,10 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Phishing for phishing awareness](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.632650)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [Defcon 24: Phishing without failure and frustation](https://m.youtube.com/watch?v=jXQSpDDyOYE)
+* [Mitre ATT&CK: Spearphishing link]( https://attack.mitre.org/techniques/T1192/)
+* [Mitre ATT&CK: Spearphishing attachment](https://attack.mitre.org/techniques/T1193/)
+* [Mitre ATT&CK: Spearphishing via service](https://attack.mitre.org/techniques/T1194/)
 * [Amazing mind reader reveals his gift](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [HackBack: A DIY Guide](http://pastebin.com/raw/0SNSvyjJ)
 * [A DIY Guide for those without the patience to wait for whistleblowers](https://pastebin.com/BMb543G9)
@@ -203,3 +222,4 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [KnowBe4 info site](https://www.knowbe4.com/phishing)
 * [VirusTotal](https://www.virustotal.com/gui/)
 * [mx toolbox](https://mxtoolbox.com/diagnostic.aspx)
+* [TedX: Phishing for phools](https://m.youtube.com/watch?v=0Ax1wrJD2LU)
