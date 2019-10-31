@@ -70,6 +70,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 ## [↑](#table-of-contents) Phishing infrastructure
 * [Going phishing with terraform](https://bestestredteam.com/2019/03/22/going-phishing-with-terraform/)
 * [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/2017/12/14/building-resilient-phishing-campaigns/)
+* [Practical Phishing with Gophish](https://medium.com/airwalk/practical-phishing-with-gophish-7dd384ad1840)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Complete guide creating and hosting phishing page for beginners](https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phishing-page-for-beginners-0187744/)
 * [Automating gophish releases](https://jordan-wright.com/blog/post/2018-02-04-automating-gophish-releases/)
@@ -82,6 +83,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 ## [↑](#table-of-contents) Payloads and filter evasion
 * [Evilginx - Advanced Phishing with Two-factor Authentication Bypass](https://breakdev.org/evilginx-advanced-phishing-with-two-factor-authentication-bypass/)
 * [Evilginx 2 - Next Generation of Phishing 2FA Tokens](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)
+* [Simulated Phishing Educational Campaign Guide](https://drive.google.com/file/d/0B46F8RQcMmXUZzNFYkNPWDVIY3c/view)
+* [Conducting USB Drop Tests With GoPhish](https://medium.com/@chrismerkel/conducting-usb-drop-tests-with-gophish-44cc7e1a88b9)
 * [Luckystrike a database backed evil macro generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
 * [Powershell empire stagers 1 phishing with an office macro and evading avs](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs)
 * [Executing metasploit empire payloads from ms office documemt properties part 1 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2)
@@ -116,6 +119,9 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 
 ### Phishing campaign tools
 * [Evilginx2](https://github.com/kgretzky/evilginx2)
+* [GoReport](https://github.com/chrismaddalena/GoReport)
+* [Phishbuckets](https://github.com/CommArc/phishbuckets)
+* [Lure](https://github.com/highmeh/lure)
 * [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit/)
 * [King Phisher](https://github.com/securestate/king-phisher)
 * [FiercePhish](https://github.com/Raikia/FiercePhish)
@@ -207,6 +213,7 @@ The dark art of Remote Online Social Engineering](http://i.blackhat.com/us-18/We
 * [Phishing for phishing awareness](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.632650)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [Phishing Filosophy: Some philosophy to consider before launching a phishing test against your own company](https://medium.com/airwalk/phishing-filosophy-e2fd54c5c5ca)
 * [Defcon 24: Phishing without failure and frustation](https://m.youtube.com/watch?v=jXQSpDDyOYE)
 * [Mitre ATT&CK: Spearphishing link]( https://attack.mitre.org/techniques/T1192/)
 * [Mitre ATT&CK: Spearphishing attachment](https://attack.mitre.org/techniques/T1193/)
