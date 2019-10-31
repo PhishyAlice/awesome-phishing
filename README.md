@@ -60,8 +60,12 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [DNSBL (DNS Black List)](http://www.zytrax.com/books/dns/ch9/dnsbl.html)
 
 ## [↑](#table-of-contents) OSINT for phishers
-* [Kali tools list](https://tools.kali.org/tools-listing)
-* [OSINT framework](https://osintframework.com/)
+* [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56)
+* [Use buscador osint vm for conducting online investigations](https://null-byte.wonderhowto.com/how-to/use-buscador-osint-vm-for-conducting-online-investigations-0186611/)
+* [Open-Source Intelligence (OSINT) Reconnaissance](https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada)
+* [A Guide to Open Source Intelligence Gathering (OSINT)](https://medium.com/bugbountywriteup/a-guide-to-open-source-intelligence-gathering-osint-ca831e13f29c)
+* [OSINT Resources for 2019](https://medium.com/@micallst/osint-resources-for-2019-b15d55187c3f)
+
 
 ## [↑](#table-of-contents) Phishing infrastructure
 * [Going phishing with terraform](https://bestestredteam.com/2019/03/22/going-phishing-with-terraform/)
@@ -76,6 +80,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Infrastructure for ongoing red team operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
 
 ## [↑](#table-of-contents) Payloads and filter evasion
+* [Evilginx - Advanced Phishing with Two-factor Authentication Bypass](https://breakdev.org/evilginx-advanced-phishing-with-two-factor-authentication-bypass/)
+* [Evilginx 2 - Next Generation of Phishing 2FA Tokens](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)
 * [Luckystrike a database backed evil macro generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
 * [Powershell empire stagers 1 phishing with an office macro and evading avs](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs)
 * [Executing metasploit empire payloads from ms office documemt properties part 1 of 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2)
@@ -89,6 +95,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 
 ## [↑](#table-of-contents) Tools and frameworks
 ### OSINT tools
+* [Kali tools list](https://tools.kali.org/tools-listing)
+* [OSINT framework](https://osintframework.com/)
 * [Whois](http://whois.domaintools.com/)
 * [HaveIBeenPwnd](https://haveibeenpwned.com/)
 * [Creepy](https://github.com/ilektrojohn/creepy)
@@ -101,6 +109,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [SearX](https://searx.me/)
 
 ### Phishing campaign tools
+* [Evilginx2](https://github.com/kgretzky/evilginx2)
 * [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit/)
 * [King Phisher](https://github.com/securestate/king-phisher)
 * [FiercePhish](https://github.com/Raikia/FiercePhish)
@@ -144,6 +153,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Spam Nation: The Inside Story of Organized Cybercrime - from Global Epidemic to Your Front Door](https://www.amazon.com/Spam-Nation-Organized-Cybercrime_from-Epidemic/dp/1501210424)
 
 ## [↑](#table-of-contents) Campaign write-ups
+* [Darknet diaries: The hack](https://darknetdiaries.com/episode/19/)
+* [YouTube Impersonation Scams Offering Fake Rewards are Running Wild](https://www.riskiq.com/blog/labs/youtube-impersonation-scams/)
 * [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](https://citizenlab.ca/2017/05/tainted-leaks-disinformation-phish/)
 * [Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society](https://citizenlab.ca/2017/02/nilephish-report/)
 * [Exposing One of China’s Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
@@ -160,8 +171,15 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [The RSA Hack: How They Did It](https://bits.blogs.nytimes.com/2011/04/02/the-rsa-hack-how-they-did-it/)
 
 ## [↑](#table-of-contents) Phishing prevention and detection
+* [Backtrack phishing email using Open-source intelligence gathering](https://www.peerlyst.com/posts/backtrack-phishing-email-using-open-source-intelligence-gathering-shaquib-izhar)
+* [Phishing - Advanced URL Analysis - Obfuscation, Clickjacking and OSINT Gathering](https://mlhale.github.io/nebraska-gencyber-modules/phishing/url-analysis-advanced/)
+* [Blunting the phishers spear: A risk-based approach](https://m.youtube.com/watch?v=5j6iSDBmCP4)
+* [Deconstructing the Phishing Campaigns that Target Gmail Users](https://docs.google.com/presentation/d/1RlpF-uVEEe9SMM9g0o0MudcBD2r6nqyCB0iUHv3rwEg/embed)
+* [How to Recognize Phishing Emails](https://resources.infosecinstitute.com/recognize-phishing-emails/#gref)
+
 
 ## [↑](#table-of-contents) Phishing-related scientific research
+* [DeepPhish: Simulating Malicious AI](https://m.youtube.com/watch?v=fGtPmiNebDE)
 * [Why Phishing Works](https://cloudfront.escholarship.org/dist/prd/content/qt9dd9v9vd/qt9dd9v9vd.pdf)
 * [PhishEye: Live monitoring of sandboxed phishing kits](http://193.55.114.4/docs/ccs16_phisheye.pdf)
 * [Phishnet: predictive blacklisting to detect phishing attacks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.168.4540&rep=rep1&type=pdf)
@@ -174,6 +192,12 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Phishing for phishing awareness](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.632650)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [Amazing mind reader reveals his gift](https://www.youtube.com/watch?v=F7pYHN9iC9I)
+* [HackBack: A DIY Guide](http://pastebin.com/raw/0SNSvyjJ)
+* [A DIY Guide for those without the patience to wait for whistleblowers](https://pastebin.com/BMb543G9)
+* [This is what happens when you reply to spam email](https://m.youtube.com/watch?v=_QdPW8JrYzQ)
+* [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
+* [OpenDNS Phishing Quiz](https://www.opendns.com/phishing-quiz/)
 * [PhishTank](https://PhishTank.com)
 * [PhishBank](https://phishbank.org/)
 * [KnowBe4 info site](https://www.knowbe4.com/phishing)
