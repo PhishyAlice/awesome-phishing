@@ -178,3 +178,4 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [PhishBank](https://phishbank.org/)
 * [KnowBe4 info site](https://www.knowbe4.com/phishing)
 * [VirusTotal](https://www.virustotal.com/gui/)
+* [mx toolbox](https://mxtoolbox.com/diagnostic.aspx)
