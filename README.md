@@ -79,6 +79,9 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Automated red team infrastructure deployment with terraform - part 1](https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
 * [Automated red team infrastructure deployment with terraform - part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
 * [Infrastructure for ongoing red team operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+* [Help spear phishing](https://www.cobaltstrike.com/help-spear-phish)
+* [Phishing with Cobaltstrike](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
+* [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
 
 ## [↑](#table-of-contents) Payloads and filter evasion
 * [Evilginx - Advanced Phishing with Two-factor Authentication Bypass](https://breakdev.org/evilginx-advanced-phishing-with-two-factor-authentication-bypass/)
@@ -101,6 +104,9 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Hacking into whatsapp series part 2 phishing](https://null-byte.wonderhowto.com/forum/hacking-into-whatsapp-series-part-2-phishing-0179508/)
 * [Macro-less code exec in msword](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
 * [Multi-platform macro phishing payload](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
+* [Whats the go to phishing technique or exploit](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit)
+* [MetaPhish: PDF Infection, Web SpearPhishing, TOR abuse & communications](http://www.blackhat.com/presentations/bh-usa-09/SMITH_VAL/BHUSA09-Smith-MetaPhish-PAPER.pdf)
+* [Microsoft office ntlm hashes via frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
 
 ## [↑](#table-of-contents) Tools and frameworks
 ### OSINT tools
@@ -141,6 +147,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Mercure](https://github.com/atexio/mercure)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 * [Cobalt strike](https://www.cobaltstrike.com/help-spear-phish)
+* [PoT - Phishing On Twitter](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
+* [Domain Hunter](https://github.com/minisllc/domainhunter)
 
 ### Payload tools
 * [The Browser Exploitation Framework](https://github.com/beefproject/beef)
@@ -234,3 +242,4 @@ for Account Hijacking](https://www.sysnet.ucsd.edu/~voelker/pubs/hackforhire-www
 * [VirusTotal](https://www.virustotal.com/gui/)
 * [mx toolbox](https://mxtoolbox.com/diagnostic.aspx)
 * [TedX: Phishing for phools](https://m.youtube.com/watch?v=0Ax1wrJD2LU)
+* [OWASP: Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
