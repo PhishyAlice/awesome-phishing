@@ -79,6 +79,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Automated red team infrastructure deployment with terraform - part 1](https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
 * [Automated red team infrastructure deployment with terraform - part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
 * [Infrastructure for ongoing red team operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+* [Latest Trends in Cybersquatting](https://resources.infosecinstitute.com/latest-trends-in-cybersquatting/)
 * [Help spear phishing](https://www.cobaltstrike.com/help-spear-phish)
 * [Phishing with Cobaltstrike](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
 * [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
@@ -182,6 +183,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Analysing a massive Office 365 phishing campaign](https://bartblaze.blogspot.com/2019/03/analysing-massive-office-365-phishing.html?m=1)
 * [Gmail Phishing Campaign Racking Up Victims](https://www.pindrop.com/blog/gmail-phishing-campaign-racking-up-victims/)
 * [Spying on a Budget: Inside a Phishing Operation with Targets in the Tibetan Community](https://citizenlab.ca/2018/01/spying-on-a-budget-inside-a-phishing-operation-with-targets-in-the-tibetan-community/)
+* [An OSINT Analysis of the Elon Musk Bitcoin Scam](https://medium.com/@micallst/an-osint-analysis-of-the-elon-musk-bitcoin-scam-778fb1b14b3b)
 * [Reckless Redux: Senior Mexican Legislators and Politicians Targeted with NSO Spyware](https://citizenlab.ca/2017/06/more-mexican-nso-targets/)
 * [Reckless Exploit: Mexican Journalists, Lawyers, and a Child Targeted with NSO Spyware](https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/)
 * [Shifting Tactics: Tracking changes in years-long espionage campaign against Tibetans](https://citizenlab.ca/2016/03/shifting-tactics/)
@@ -197,8 +199,9 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Phishing - Advanced URL Analysis - Obfuscation, Clickjacking and OSINT Gathering](https://mlhale.github.io/nebraska-gencyber-modules/phishing/url-analysis-advanced/)
 * [Blunting the phishers spear: A risk-based approach](https://m.youtube.com/watch?v=5j6iSDBmCP4)
 * [Deconstructing the Phishing Campaigns that Target Gmail Users](https://docs.google.com/presentation/d/1RlpF-uVEEe9SMM9g0o0MudcBD2r6nqyCB0iUHv3rwEg/embed)
-* [How to Recognize Phishing Emails](https://resources.infosecinstitute.com/recognize-phishing-emails/#gref)
-
+* [How to Recognize Phishing Emails](https://resources.infosecinstitute.com/recognize-phishing-emails/)
+* [What can be learned from a phishing domain](https://medium.com/@fdikbiyik/what-can-be-learnt-from-a-phishing-domain-44397c26a7d0)
+* [Dealing with cybersquatting, typosquatting and phishing](https://avleonov.com/2017/08/06/dealing-with-cybersquatting-typosquatting-and-phishing/)
 
 ## [↑](#table-of-contents) Phishing-related scientific research
 * [Every ROSE has its thorn 
@@ -243,3 +246,5 @@ for Account Hijacking](https://www.sysnet.ucsd.edu/~voelker/pubs/hackforhire-www
 * [mx toolbox](https://mxtoolbox.com/diagnostic.aspx)
 * [TedX: Phishing for phools](https://m.youtube.com/watch?v=0Ax1wrJD2LU)
 * [OWASP: Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
+* [Anti-Pharming 101: What are pharming attacks?](https://info.phishlabs.com/blog/anti-pharming-101-what-are-pharming-attacks)
+* [The OSINT-ification of ISIS on the Dark Web](https://medium.com/@z3roTrust/the-osint-ification-of-isis-on-the-dark-web-19644ec90253)
