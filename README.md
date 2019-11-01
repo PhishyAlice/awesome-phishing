@@ -195,6 +195,10 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 ## [↑](#table-of-contents) Phishing-related scientific research
 * [Every ROSE has its thorn 
 The dark art of Remote Online Social Engineering](http://i.blackhat.com/us-18/Wed-August-8/us-18-Wixey-Every-ROSE-Has-Its-Thorn-The-Dark-Art-Of-Remote-Online-Social-Engineering.pdf)
+* [Data Breaches, Phishing, or Malware? 
+Understanding the Risks of Stolen Credentials](https://ai.google/research/pubs/pub46437.pdf)
+* [Hack for Hire: Exploring the Emerging Market 
+for Account Hijacking](https://www.sysnet.ucsd.edu/~voelker/pubs/hackforhire-www19.pdf)
 * [Ichthyology-phishing-as-a-science](https://www.blackhat.com/us-17/briefings.html#ichthyology-phishing-as-a-science)
 * [DeepPhish: Simulating Malicious AI](https://m.youtube.com/watch?v=fGtPmiNebDE)
 * [Why Phishing Works](https://cloudfront.escholarship.org/dist/prd/content/qt9dd9v9vd/qt9dd9v9vd.pdf)
