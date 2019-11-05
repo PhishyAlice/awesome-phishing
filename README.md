@@ -62,9 +62,11 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 ## [↑](#table-of-contents) OSINT for phishers
 * [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 * [Use buscador osint vm for conducting online investigations](https://null-byte.wonderhowto.com/how-to/use-buscador-osint-vm-for-conducting-online-investigations-0186611/)
+* [Using PGP Keys For OSINT](https://nixintel.info/osint-tools/using-pgp-keys-for-osint/)
 * [Open-Source Intelligence (OSINT) Reconnaissance](https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada)
 * [A Guide to Open Source Intelligence Gathering (OSINT)](https://medium.com/bugbountywriteup/a-guide-to-open-source-intelligence-gathering-osint-ca831e13f29c)
 * [OSINT Resources for 2019](https://medium.com/@micallst/osint-resources-for-2019-b15d55187c3f)
+* [Compilation of recon workflows](https://pentester.land/cheatsheets/2019/03/25/compilation-of-recon-workflows.html)
 
 
 ## [↑](#table-of-contents) Phishing infrastructure
@@ -157,6 +159,8 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Cobalt strike](https://www.cobaltstrike.com/help-spear-phish)
 * [PoT - Phishing On Twitter](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
 * [Domain Hunter](https://github.com/minisllc/domainhunter)
+* [BlackEye](https://github.com/thelinuxchoice/blackeye)
+* [SocialFish](https://github.com/UndeadSec/SocialFish)
 
 ### Payload tools
 * [The Browser Exploitation Framework](https://github.com/beefproject/beef)
@@ -201,6 +205,9 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [The RSA Hack: How They Did It](https://bits.blogs.nytimes.com/2011/04/02/the-rsa-hack-how-they-did-it/)
 
 ## [↑](#table-of-contents) Phishing prevention and detection
+* [Catching phishing before they catch you](https://blog.0day.rocks/catching-phishing-using-certstream-97177f0d499a)
+* [The Web's Identity Crisis: Understanding the Effectiveness of Website Identity Indicators](https://ai.google/research/pubs/pub48199)
+* [Does Domain Highlighting Help People Identify Phishing Sites?](http://grouplab.cpsc.ucalgary.ca/grouplab/uploads/Publications/Publications/2011-DomainHighlighting.CHI.pdf)
 * [Email Phishing Protection Guide – Blog 19: Email Phishing Protection Security Checklist](https://blogs.technet.microsoft.com/cloudready/2018/11/21/blog-19-email-phishing-protection-security-checklist/)
 * [Backtrack phishing email using Open-source intelligence gathering](https://www.peerlyst.com/posts/backtrack-phishing-email-using-open-source-intelligence-gathering-shaquib-izhar)
 * [Phishing - Advanced URL Analysis - Obfuscation, Clickjacking and OSINT Gathering](https://mlhale.github.io/nebraska-gencyber-modules/phishing/url-analysis-advanced/)
