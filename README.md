@@ -89,6 +89,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Automated red team infrastructure deployment with terraform - part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
 * [Infrastructure for ongoing red team operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
 * [Latest Trends in Cybersquatting](https://resources.infosecinstitute.com/latest-trends-in-cybersquatting/)
+* [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/)
 * [Help spear phishing](https://www.cobaltstrike.com/help-spear-phish)
 * [Phishing with Cobaltstrike](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
 * [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
@@ -117,6 +118,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [Whats the go to phishing technique or exploit](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit)
 * [MetaPhish: PDF Infection, Web SpearPhishing, TOR abuse & communications](http://www.blackhat.com/presentations/bh-usa-09/SMITH_VAL/BHUSA09-Smith-MetaPhish-PAPER.pdf)
 * [Microsoft office ntlm hashes via frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
+* [Phishing Actor Using XOR Obfuscation Graduates to Enterprise Cloud Storage on AWS](https://www.proofpoint.com/us/threat-insight/post/phishing-actor-using-xor-obfuscation-graduates-enterprise-cloud-storage-aws)
 
 ## [↑](#table-of-contents) Tools and frameworks
 ### OSINT tools
@@ -240,25 +242,42 @@ for Account Hijacking](https://www.sysnet.ucsd.edu/~voelker/pubs/hackforhire-www
 * [Large-scale automatic classification of phishing pages](https://ai.google/research/pubs/pub35580.pdf)
 * [Social phishing](http://www.markus-jakobsson.com/papers/jakobsson-commacm07.pdf)
 * [Phishing for phishing awareness](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.632650)
+* [A Framework for Detection and Measurement of Phishing Attacks](http://mmnet.iis.sinica.edu.tw/botnet/file/20100524/20100524_1.pdf) 
+* [PHISHING DETECTION VIA ANALYTIC NETWORKS](https://blogs.akamai.com/sitr/2019/11/phishing-detection-via-analytic-networks.html)
+* [ANALYSIS OF BACK-DOORED 
+PHISHING KITS](https://link.springer.com/content/pdf/10.1007/978-3-642-24212-0_12.pdf)
 
 ## [↑](#table-of-contents) Miscellaneous
+### Phishing economy
+* [Evasive Phishing Driven by Phishing-as-a-Service](https://www.cyren.com/blog/articles/evasive-phishing-driven-by-phishing-as-a-service)
+* [There Is No Free Phish: An Analysis of" Free" and Live Phishing Kits.](http://static.usenix.org/event/woot08/tech/full_papers/cova/cova.pdf)
+* [PHISHING FACTORIES AND ECONOMIES](https://blogs.akamai.com/sitr/2019/06/phishing-factories-and-economies.html)
+* [The Economy of Phishing: A Survey of the Operations of the Phishing Market](https://firstmonday.org/ojs/index.php/fm/article/view/1272/1192)
+### Phishing ethics
 * [Phishing Filosophy: Some philosophy to consider before launching a phishing test against your own company](https://medium.com/airwalk/phishing-filosophy-e2fd54c5c5ca)
-* [Defcon 24: Phishing without failure and frustation](https://m.youtube.com/watch?v=jXQSpDDyOYE)
+
+### Definitions
 * [Mitre ATT&CK: Spearphishing link]( https://attack.mitre.org/techniques/T1192/)
 * [Mitre ATT&CK: Spearphishing attachment](https://attack.mitre.org/techniques/T1193/)
 * [Mitre ATT&CK: Spearphishing via service](https://attack.mitre.org/techniques/T1194/)
-* [Amazing mind reader reveals his gift](https://www.youtube.com/watch?v=F7pYHN9iC9I)
+* [KnowBe4 info site](https://www.knowbe4.com/phishing)
+* [OWASP: Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
+* [Anti-Pharming 101: What are pharming attacks?](https://info.phishlabs.com/blog/anti-pharming-101-what-are-pharming-attacks)
+
+### OpSec
 * [HackBack: A DIY Guide](http://pastebin.com/raw/0SNSvyjJ)
 * [A DIY Guide for those without the patience to wait for whistleblowers](https://pastebin.com/BMb543G9)
-* [This is what happens when you reply to spam email](https://m.youtube.com/watch?v=_QdPW8JrYzQ)
+### Phishing quiz
 * [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
 * [OpenDNS Phishing Quiz](https://www.opendns.com/phishing-quiz/)
+### Report sites
 * [PhishTank](https://PhishTank.com)
 * [PhishBank](https://phishbank.org/)
-* [KnowBe4 info site](https://www.knowbe4.com/phishing)
+### Other
+* [Defcon 24: Phishing without failure and frustation](https://m.youtube.com/watch?v=jXQSpDDyOYE)
+* [TedX: This is what happens when you reply to spam email](https://m.youtube.com/watch?v=_QdPW8JrYzQ)
 * [VirusTotal](https://www.virustotal.com/gui/)
 * [mx toolbox](https://mxtoolbox.com/diagnostic.aspx)
 * [TedX: Phishing for phools](https://m.youtube.com/watch?v=0Ax1wrJD2LU)
-* [OWASP: Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
-* [Anti-Pharming 101: What are pharming attacks?](https://info.phishlabs.com/blog/anti-pharming-101-what-are-pharming-attacks)
 * [The OSINT-ification of ISIS on the Dark Web](https://medium.com/@z3roTrust/the-osint-ification-of-isis-on-the-dark-web-19644ec90253)
+* [Amazing mind reader reveals his gift](https://www.youtube.com/watch?v=F7pYHN9iC9I)
