@@ -1,6 +1,6 @@
 # awesome-phishing
 
-Collection of useful resources for red teamers, pentesters, security reseachers and anyone interested in technical and non-technical aspects of phishing and related topics.
+Collection of useful resources for red teamers, pentesters, security reseachers and anyone interested in technical and non-technical aspects of phishing and related topics. Further information on [Phishiverse.com](https://phishiverse.com).
 
 Idea, concept and some resources from [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/).
 
