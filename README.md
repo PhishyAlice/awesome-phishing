@@ -273,6 +273,7 @@ PHISHING KITS](https://link.springer.com/content/pdf/10.1007/978-3-642-24212-0_1
 ### Report sites
 * [PhishTank](https://PhishTank.com)
 * [PhishBank](https://phishbank.org/)
+* [Phish.Report](https://phish.report)
 ### Other
 * [Defcon 24: Phishing without failure and frustation](https://m.youtube.com/watch?v=jXQSpDDyOYE)
 * [TedX: This is what happens when you reply to spam email](https://m.youtube.com/watch?v=_QdPW8JrYzQ)
