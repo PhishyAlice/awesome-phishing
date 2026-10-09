@@ -218,6 +218,7 @@ And Why You Want to Have It Set Up (Updated)](https://blog.woodpecker.co/cold-em
 * [How to Recognize Phishing Emails](https://resources.infosecinstitute.com/recognize-phishing-emails/)
 * [What can be learned from a phishing domain](https://medium.com/@fdikbiyik/what-can-be-learnt-from-a-phishing-domain-44397c26a7d0)
 * [Dealing with cybersquatting, typosquatting and phishing](https://avleonov.com/2017/08/06/dealing-with-cybersquatting-typosquatting-and-phishing/)
+* [How to spot a fake fine: check the official portal, never the link](https://isthisaigenerated.app/site/en/blog/how-to-spot-a-fake-fine/) - a free, warning-only guide on verifying a payment or fine message inside the official channel instead of through its link, by isthisaigenerated.app (self-submitted).
 
 ## [↑](#table-of-contents) Phishing-related scientific research
 * [Every ROSE has its thorn 
